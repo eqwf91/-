@@ -1,0 +1,5 @@
+{
+  "name": "SmartLedger AI - 智能記帳助手",
+  "description": "一個結合 Gemini AI 的現代化記帳網頁，提供自動收支分類、支出分析與直觀的圖表看板。",
+  "requestFramePermissions": []
+}
